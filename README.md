@@ -3,14 +3,9 @@
 # Este es un periodico en el que se hablara sobre distintos temas que han sido relevantes ultimamente a nivel mundial, tocando temas desde lo deportivo a lo economico, para mantener al lector bien informado
 # Escritores: Juan Ruiz; Juan Fernandez; Karol Saavedra; Laura Santamaria; Luis Yanquen y Sara fonseca 
 
-#Artículo de política
-#Panamá y Colombia acordaron este viernes aplicar un plan de flujo controlado de miles de migrantes en tránsito hacia EE. UU. y Canadá que están generando una crisis humanitaria en la frontera común, especialmente en Necoclí y el Urabá Antioqueño, en la zona colombiana, así como trabajar para judicializar a los traficantes de personas que se lucran con este fenómeno.
-#Esto se da tras una reunión de alto nivel en la localidad panameña de San Vicente, provincia del Darién, a la que asistieron la canciller panameña, Erika Mouynes, y la vicepresidenta colombiana, Marta Lucía Ramírez, e insistieron en la necesidad de que los países de origen, tránsito y destino de estos migrantes, en su mayoría haitianos que están saliendo de Chile, se involucren para dar una solución coordinada que evite crisis humanitarias o sanitarias.
-
-
-
-
-
+# Artículo de política
+# Panamá y Colombia acordaron este viernes aplicar un plan de flujo controlado de miles de migrantes en tránsito hacia EE. UU. y Canadá que están generando una crisis humanitaria en la frontera común, especialmente en Necoclí y el Urabá Antioqueño, en la zona colombiana, así como trabajar para judicializar a los traficantes de personas que se lucran con este fenómeno.
+# Esto se da tras una reunión de alto nivel en la localidad panameña de San Vicente, provincia del Darién, a la que asistieron la canciller panameña, Erika Mouynes, y la vicepresidenta colombiana, Marta Lucía Ramírez, e insistieron en la necesidad de que los países de origen, tránsito y destino de estos migrantes, en su mayoría haitianos que están saliendo de Chile, se involucren para dar una solución coordinada que evite crisis humanitarias o sanitarias.
 
 # Articulo de Opinion
 # Scarlett Johansson, la estrella de Viuda Negra, la última película de Marvel, presento la semana pasada una demanda contra la empresa matriz de la productora, The Walt Disney Company, por incumplimiento de contrato. La actriz alega que la decisión de Disney de estrenar la película el pasado julio a la vez en salas y en su servicio de streaming, Disney+, se salta los términos firmados hace cuatro años, cuando se comprometió al proyecto, y le ha causado un grave perjuicio económico. Johansson había negociado un importante bonus referenciado a las ventas en taquilla, obviamente disminuidas cuando la película está disponible por 30 dólares en el nuevo servicio de Disney. El gigante del entretenimiento ha respondido acusando Johansson de ser insensible a la situación creada por la covid, e incluso ha hecho público el dinero que ha cobrado hasta ahora, 20 millones de dólares (la prensa especializada afirma que Johansson puede estar perdiendo unos 50 millones de dólares de su porcentaje de taquilla).
